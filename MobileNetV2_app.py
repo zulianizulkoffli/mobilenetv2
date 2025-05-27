@@ -1,5 +1,5 @@
 import streamlit as st
-st.set_page_config(page_title="ImageNet Classifier", layout="centered")  # ✅ First Streamlit command
+st.set_page_config(page_title="Training - Test ImageNet Classifier", layout="centered")  # ✅ First Streamlit command
 
 import numpy as np
 import tensorflow as tf
