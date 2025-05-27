@@ -3,4 +3,3 @@ torch
 torchvision
 opencv-python-headless
 Pillow
-tensorflow
